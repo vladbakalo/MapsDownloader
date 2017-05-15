@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff8800</color>
+    <color name="colorPrimaryDark">#e68200</color>
+    <color name="colorAccent">#e5e5e5</color>
+
+    <color name="colorActivityBackground">#eaeaea</color>
+    <color name="colorCellBackground">#ffffff</color>
+    <color name="colorCellSeparator">#e5e5e5</color>
+    <color name="colorIconInCell">#727272</color>
+    <color name="colorTextInCell">#212121</color>
+    <color name="colorProgressBackground">#ffd39a</color>
+    <color name="colorDownloadedMap">#fd39e40a</color>
+</resources>
